@@ -2,6 +2,13 @@ Hi, I'm Anand Nair 👋
 
 I am currently a MSc. student at UCT, researching the dynamics of pancake sea ice in the Antarctic Marginal Ice Zone. 
 
+My interests include mechanical engineering design, computational fluid dynamics for work, and song writing, music production and filmmaking for play.
+<!--I am a firm believer of the work hard, play hard philosophy.-->
+
+My skill are: Python, Matlab, LaTeX
+
+I'm currently learning C++, OpenFOAM and 
+
 <!--
 ## Hi there
 
