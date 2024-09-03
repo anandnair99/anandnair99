@@ -1,6 +1,10 @@
-## Hi there 👋
+Hi, I'm Anand Nair 👋
+
+I am currently a MSc. student at UCT, researching the dynamics of pancake sea ice in the Antarctic Marginal Ice Zone. 
 
 <!--
+## Hi there
+
 **anandnair99/anandnair99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
